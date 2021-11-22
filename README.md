@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**minhquyt/minhquyt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**minhquyt/minhquyt** is a ✨ _special_ ✨ repository because its `DanhMuc1.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
